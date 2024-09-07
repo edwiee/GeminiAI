@@ -1,5 +1,7 @@
-# GeminiAI
-<p><samp>Gemini AI is Google’s next-generation artificial intelligence system designed to combine advanced language processing with powerful image capabilities. Built to rival platforms like OpenAI’s GPT, Gemini AI integrates deep learning, conversational understanding, and generative features, making it versatile for tasks ranging from answering complex questions to creating rich, multimedia content. Its multi-modal approach allows for seamless interactions across text, images, and other data formats, pushing the boundaries of AI-driven creativity and problem-solving.</samp></p>
+
+
+# GeminiAI Clone
+<p><samp>Gemini AI is Google’s next-generation artificial intelligence system designed to combine advanced language processing with powerful image capabilities. Built to rival platforms like OpenAI’s GPT, Gemini AI integrates deep learning, conversational understanding, and generative features, making it versatile for tasks ranging from answering complex questions to creating rich, multimedia content.</samp></p>
 
 #
 ### Author
