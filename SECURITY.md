@@ -10,7 +10,7 @@ GeminiAI project.
 We appreciate your efforts and responsible disclosure and will
 make every effort to acknowledge your contributions.
 
-Report security vulnerabilities by emailing the CheatSheets.in team at:
+Report security vulnerabilities by emailing the GeminiAI team at:
 
 ```
 edwinvakayil@gmail.com
