@@ -24,7 +24,6 @@ git checkout -b feature/my-new-feature
 #### 4. Make Your Changes
 Make the necessary changes or additions in your branch. This could involve:
 
-- Adding new cheat sheets.
 - Fixing typos or formatting issues.
 - Enhancing existing content.
 
